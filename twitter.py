@@ -14,10 +14,10 @@ class Main_Class(object):
     def __init__(self):
 
         #consumer key, consumer secret, access token, access secret.
-        ckey="EeRgV2xxeH2aRfbfIyNMDDTI3"
-        csecret="640ipwD1kHJiwUMHnVEDBLNdH5Tg4JiSJ2aM4INTs42GGiSX6P"
-        atoken="767312780705861632-6jgCz79gVNUtnCdosI0OnPfGAIKzu9O"
-        asecret="hYlQdvzW5Gda6CeWx2SZGOUENsqY2Aud7ph24tTiRnYxR"
+        ckey="consumer key"
+        csecret="consumer secret"
+        atoken="access token"
+        asecret="access secret"
 
         ### try to make authenticate connection ####
         try:
